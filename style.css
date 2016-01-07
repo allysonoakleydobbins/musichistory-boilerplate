@@ -1,0 +1,17 @@
+/*.navigation {
+    background-color: goldenrod;
+    height: 30px;
+}*/
+
+.navigation {
+	border: 2px solid;
+	background-color: #FFB4B0;
+	width: 75%;
+	margin: auto;
+}
+
+.addspace {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+}
