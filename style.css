@@ -9,9 +9,26 @@
 	width: 75%;
 	margin: auto;
 }
+body {
+	margin: auto;
+}
+
+.text {
+	font:arial;
+}
 
 .addspace {
 	padding-top: 15px;
 	padding-bottom: 15px;
 	padding-left: 15px;
+}
+
+.firstblock {
+	border: 2px solid;
+	background-color: #4DD7FA;
+	margin-left: 20%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	float: left;
 }
